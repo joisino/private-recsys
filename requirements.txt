@@ -1,0 +1,5 @@
+numpy>=1.21.0
+scipy>=1.5.4
+implicit>=0.4.4
+pandas>=0.23.4
+requests>=2.23.0
